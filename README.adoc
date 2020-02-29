@@ -2,7 +2,6 @@
 
 image:https://img.shields.io/badge/vert.x-3.8.5-purple.svg[link="https://vertx.io"]
 image:https://api.travis-ci.com/maxexplode/OrmSuite.svg?branch=master[link="https://travis-ci.com/maxexplode/OrmSuite"]
-This application was generated using http://start.vertx.io
 
 == Building
 
